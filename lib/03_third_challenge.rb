@@ -11,7 +11,7 @@ def third_challenge
 
         },
       :hero_friends => []
-   }, 
+   },
    :capulet => {
       :patriarch => {
 
@@ -26,5 +26,5 @@ def third_challenge
    }
   }
 
-  
+
 end
